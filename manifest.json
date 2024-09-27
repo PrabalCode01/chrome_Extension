@@ -1,0 +1,11 @@
+{
+    "name":"My chrome extension",
+    "version": "1.0.0",
+    "description":"This is my first extension",
+    "manifest_version":3,
+    "author":"Prabal Pratap Singh",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"My Chrome Extension"
+    }
+}
